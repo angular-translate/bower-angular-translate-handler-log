@@ -1,10 +1,9 @@
 {
   "name": "angular-translate-handler-log",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "./angular-translate-handler-log.js",
   "dependencies": {
-    "angular": "1.0.7",
-    "angular-cookies": "1.0.7",
-    "angular-translate": "~1.0.2"
+    "angular": "1.0.8",
+    "angular-translate": "~1.1.0"
   }
 }
