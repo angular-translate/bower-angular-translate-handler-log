@@ -1,8 +1,8 @@
 {
   "name": "angular-translate-handler-log",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "main": "./angular-translate-handler-log.js",
   "dependencies": {
-    "angular-translate": "2.0.x"
+    "angular-translate": "2.1.x"
   }
 }
